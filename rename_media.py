@@ -13,6 +13,7 @@ FILE_ENDINGS = {
     'thumb': './covers',
     'bezel': './bezels',
     'video': './videos',
+    'manual': './manuals',
     # Add more file endings and destinations as needed
 }
 
