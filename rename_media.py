@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Configuration: file endings and their corresponding destination folders
 FILE_ENDINGS = {
-    'backbox': './backcovers',
+    'boxback': './backcovers',
     'fanart': './fanart',
     'image': './titlescreens',
     'marquee': './marquees',
